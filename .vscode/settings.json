@@ -1,0 +1,6 @@
+{
+    "gradle.debug": true,
+    "gradle.disableConfirmations": true,
+    "gradle.javaDebug.cleanOutput": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
