@@ -19,18 +19,18 @@ KotlinとJetpack Compose for Desktopで開発されたオセロゲーム
 ### 前提条件
 - Java 17以上
 - Gradle 7.5+
--  
+
 ### 実行手順
 
-# 1. リポジトリのクローン
-git clone https://github.com/your-username/my-othello.git
+1. リポジトリのクローン
+ - git clone https://github.com/Tateish-k/my-othello.git
 
-# 2. プロジェクトディレクトリへ移動
-cd my-othello
-cd KotlinProject
+2. プロジェクトディレクトリへ移動
+ - cd my-othello
+ - cd KotlinProject
 
-# 3. 依存関係の解決とビルド
-./gradlew build
+3. 依存関係の解決とビルド
+ - ./gradlew build
 
-# 4. アプリケーションの実行
-./gradlew run
+4. アプリケーションの実行
+ - ./gradlew run
