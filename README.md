@@ -18,7 +18,6 @@ KotlinとJetpack Compose for Desktopで開発されたオセロゲーム
 
 ### 前提条件
 - Java 17以上
-- Gradle 7.5+
 
 ### 実行手順
 
